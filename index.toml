@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "78a2974be4ca1553dc4d339f6ebe6eee69e3113389b2fea2667a3678cf207c29"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "26fca9fdd48a32e506d077fefb9baf09908cae3a3072f5cf4726e9c8f13fde31"
 metafile = true
@@ -11,6 +16,16 @@ hash = "fca21ba2e8935773ce2dee899109caee7851fa98b1e72e927bf0dc7b3f599430"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "9b2088287d126347cb44a539b7104462e0a4aaa0b871577ca13902398f174f52"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "009ca711588da09cc02c0f5ac67c8ef8ab8ddf8a56fb63e6c46f15d612dc01ff"
+metafile = true
+
+[[files]]
 file = "mods/better-weather.pw.toml"
 hash = "e63be926b1d6ef287cbd52a1aab405b891a38c5cc52280a7c9439d92965b8edc"
 metafile = true
@@ -18,6 +33,16 @@ metafile = true
 [[files]]
 file = "mods/betteranimalsplus.pw.toml"
 hash = "aa2a915d17dd7d717cb4fbca51194dec8464e172011e39fd53b3d3b45a8279c0"
+metafile = true
+
+[[files]]
+file = "mods/bountiful.pw.toml"
+hash = "8f7855046d9a88e7b97be1eb8c35ac5c79f4dc86b2d2c813a55248255d34e73c"
+metafile = true
+
+[[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "393a16ed34d4b07a8f2bb589cf4f24d32db9100d7d61f3d799f76d10d5808da6"
 metafile = true
 
 [[files]]
@@ -41,8 +66,23 @@ hash = "856e791972a4705daba7d691290f81ed67a061e4850eb17bd6c9bb82b7b49e20"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "0356009ae37c9c7eca5d839a021fbaca73de03480415fde73089e2c814873406"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "62ce1c71f37c4b66e0a4b160c9815762017b4862f96523f04029dd8d72bb4f13"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "04b928d8be54ab152fc2ddbe278bf7ce08353de099145f7ffb1a1b4ff33d11a7"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "101ccb175a05a5aed1fbd318cc4b0c7112a4dfd4315fa502de165dcb5b3eaeac"
 metafile = true
 
 [[files]]
@@ -51,11 +91,31 @@ hash = "b46ee8547b62edcf875f064a3153c091b36b359c9789c6f91bbc5e52d094947a"
 metafile = true
 
 [[files]]
+file = "mods/performant.pw.toml"
+hash = "56168603a839c96fb00feeb194b5ab07c2ce57d6131be44c18a1b4fda8210874"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "6d7e21afb6345e8f99bae1903c69141134fd10a773d5f431145a1f83cd1887ae"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "e628ae47b8c47b33c88b10097ceab9462643c7993ad89d1f22d2a82a6aabfa7f"
 metafile = true
 
 [[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "7fb57ea0506bf6ee41a93cb60745adc9d7ba1055ac14135ff311c5fdd3efbe44"
+metafile = true
+
+[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "e7a1721fc238e8085c4421863f46b43d3e47ddc1fb5d3f8db13bd4fb073de02d"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "48f2ad2da440e7fd26fc3a7bf6687346599972e814d460fbdf6f38b33049a3df"
 metafile = true
