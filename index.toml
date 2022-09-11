@@ -1,0 +1,61 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "26fca9fdd48a32e506d077fefb9baf09908cae3a3072f5cf4726e9c8f13fde31"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "fca21ba2e8935773ce2dee899109caee7851fa98b1e72e927bf0dc7b3f599430"
+metafile = true
+
+[[files]]
+file = "mods/better-weather.pw.toml"
+hash = "e63be926b1d6ef287cbd52a1aab405b891a38c5cc52280a7c9439d92965b8edc"
+metafile = true
+
+[[files]]
+file = "mods/betteranimalsplus.pw.toml"
+hash = "aa2a915d17dd7d717cb4fbca51194dec8464e172011e39fd53b3d3b45a8279c0"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "7e1125c6d568b1c522c45871bccb49875cf30cb502f7efd70d686a8c560ce46d"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "88de9e0b66391586d0764e8fcca14bf6850a99ea030027bbf7946dafefcd0d5a"
+metafile = true
+
+[[files]]
+file = "mods/endremastered.pw.toml"
+hash = "35c1c24d4195d949ff9036a975563e7fc7d1c66ac649a96d6cc336257e8bb294"
+metafile = true
+
+[[files]]
+file = "mods/expandability.pw.toml"
+hash = "856e791972a4705daba7d691290f81ed67a061e4850eb17bd6c9bb82b7b49e20"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "62ce1c71f37c4b66e0a4b160c9815762017b4862f96523f04029dd8d72bb4f13"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go.pw.toml"
+hash = "b46ee8547b62edcf875f064a3153c091b36b359c9789c6f91bbc5e52d094947a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "e628ae47b8c47b33c88b10097ceab9462643c7993ad89d1f22d2a82a6aabfa7f"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "e7a1721fc238e8085c4421863f46b43d3e47ddc1fb5d3f8db13bd4fb073de02d"
+metafile = true

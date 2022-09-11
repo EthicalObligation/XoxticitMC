@@ -1,0 +1,13 @@
+name = "Xoxticit MC"
+author = "EthicalObligation"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cd90f5e1a9a18c21d6ad20f73baae95c63e9094bb548a15baeb72caada22db45"
+
+[versions]
+forge = "36.0.0"
+minecraft = "1.16.5"
